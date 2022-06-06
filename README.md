@@ -1,5 +1,5 @@
 # AuthTester
-BurpSuite 越权测试插件
+BurpSuite 越权测试插件，直接下载`/out/artifacts/ext/AuthTester.jar`导入到 Burp 即可
 
 ## 使用
 * 新建用户cookie
